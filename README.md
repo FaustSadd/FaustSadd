@@ -1,5 +1,4 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">A backend developer</h3>
 
