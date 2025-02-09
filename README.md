@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Egor</h1>
-<h3 align="center">Backend developer</h3>
+<h2 align="center">Hi 👋! My name is Egor and I'm backend developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faustsadd&label=Profile%20views&color=0e75b6&style=flat" alt="faustsadd" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faustsadd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faustsadd&custom_title=Contribution%20Graph&theme=github-dark-dimmed&area=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=faustsadd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=faustsadd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Git%20Stats" height="200" alt="stats graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/061629f90c79165f16c43476a6c1418f87117f3867fc85e6880c2616ff63b55b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d666175737473616464267468656d653d6461726b"><img align="center" src="https://camo.githubusercontent.com/061629f90c79165f16c43476a6c1418f87117f3867fc85e6880c2616ff63b55b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d666175737473616464267468656d653d6461726b" alt="faustsadd" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=faustsadd&amp;theme=dark" style="max-width: 100%;"></a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?faustsadd=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
 
+<img align="right" height="200" src="https://avatars.mds.yandex.net/i?id=2ce1242bdc04faecfa24dab9b3f0c659b229fa5e-10350650-images-thumbs&n=13"  />
 
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apache Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:work@shulgadev.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Yandex&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/FaustSad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
