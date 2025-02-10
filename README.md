@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faustsadd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faustsadd&custom_title=Contribution%20Graph&theme=github-dark-dimmed&area=true&hide_title=false" height="300" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=faustsadd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=faustsadd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Git%20Stats" height="200" alt="stats graph"  />
